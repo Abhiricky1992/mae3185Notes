@@ -6,7 +6,7 @@ MacOS and Linux are very similar in operation for the purpose of the microcontro
 - Open terminal app. Note that `zsh` is being used as the default shell. If `bash` is being used then continue to the [next steps](appA:nextSteps).
     ````{tab-set}
     ```{tab-item} 1
-    ![1](./appnA/figs/mac/openZsh)
+    ![1](./appnA/figs/mac/openZsh/1.png)
     ```
     ```{tab-item} 2
     ![2](./figs/mac/openZsh/2.png)
