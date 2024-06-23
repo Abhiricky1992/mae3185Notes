@@ -3,8 +3,7 @@ Before we go about writing the code for the microcontroller programming, it is i
 
 ## MacOS
 MacOS and Linux are very similar in operation for the purpose of the microcontroller programming in this book. The small changes necessary to make MacOS behave as expected are provided below.
-- Open terminal app. Note that `zsh` is being used as the default shell. If `bash` is being used then continue to the [next steps] (appA:nextSteps).
-  -````
+- Open terminal app. Note that `zsh` is being used as the default shell. If `bash` is being used then continue to the [next steps] (appA:nextSteps) 
   ## Screenshot {.tabset}
     ### tab 1
     ![1](figs/mac/openZsh/1.png?raw=true)
