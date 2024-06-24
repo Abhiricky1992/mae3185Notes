@@ -46,20 +46,15 @@ A toolchain is a set of programming tools, like a compiler, linker, debugger, et
 
 ## Windows/Linux
 - Open Ubuntu terminal.
-    ````{tab-set}
-    ```{tab-item} 1
+    ### Step 1
     ![1](./figs/windows/openTerminal/1.png)
-    ```
-    ```{tab-item} 2
+    ### Step 2
     ![2](./figs/windows/openTerminal/2.png)
-    ```
-    ```{tab-item} 3
+    ### Step 3
     ![3](./figs/windows/openTerminal/3.png)
-    ```
-    ```{tab-item} 4
+    ### Step 4
     ![4](./figs/windows/openTerminal/4.png)
-    ```
-    ````
+
 - Enter following commands to install the 'Arm Toolchain' and 'CMake'. Note that the `$` symbol, also called a 'Prompt', represents start of the line, so don't type it. The system may ask you to type your password and press <kbd>⏎&#160;Enter</kbd> at some point.
     ```bash
     $ sudo apt update
