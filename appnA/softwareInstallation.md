@@ -36,7 +36,7 @@ MacOS and Linux are very similar in operation for the purpose of the microcontro
 ## Windows
 To get Windows to a similar state, a virtual Linux operating system can be installed in it. Windows provides [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) for this purpose. A brief installation guide for WSL is provided at [https://learn.microsoft.com/en-us/windows/wsl/install](https://learn.microsoft.com/en-us/windows/wsl/install). Following are the step-wise instructions with images to install WSL.
 - Check the status of hardware virtualization.
-  ### Hardware Virtualization 
+  ### Check Hardware Virtualization 
   #### Step 1
     ![1](./figs/windows/virtualizationState/1.png)
   #### Step 2
@@ -50,65 +50,65 @@ To get Windows to a similar state, a virtual Linux operating system can be insta
     ```{note}
     Contact your TA or instructor if you don't feel comfortable changing options in your BIOS.
     ```
-    ````{tab-set}
-    ```{tab-item} 1
+    ### Enable Hardware Virtualization
+  
+    #### Step 1
     ![1](./figs/windows/biosVirtualization/1.png)
-    ```
-    ```{tab-item} 2
+    
+    #### Step 2
     ![2](./figs/windows/biosVirtualization/2.png)
-    ```
-    ```{tab-item} 3
+    
+    #### Step 3
     ![3](./figs/windows/biosVirtualization/3.png)
-    ```
-    ```{tab-item} 4
+    
+    #### Step 4
     ![4](./figs/windows/biosVirtualization/4.jpg)
-    ```
-    ```{tab-item} 5
+    
+    #### Step 5
     ![5](./figs/windows/biosVirtualization/5.jpg)
-    ```
-    ```{tab-item} 6
+    
+    #### Step 6
     ![6](./figs/windows/biosVirtualization/6.jpg)
-    ```
-    ```{tab-item} 7
+    
+    #### Step 7
     ![7](./figs/windows/biosVirtualization/7.jpg)
-    ```
-    ```{tab-item} 8
+    
+    #### Step 8
     ![8](./figs/windows/biosVirtualization/8.jpg)
-    ```
-    ```{tab-item} 9
+    
+    #### Step 9
     ![9](./figs/windows/biosVirtualization/9.jpg)
-    ```
-    ```{tab-item} 10
+    
+    #### Step 10
     ![10](./figs/windows/biosVirtualization/10.jpg)
-    ```
-    ```{tab-item} 11
+    
+    #### Step 11
     ![11](./figs/windows/biosVirtualization/11.jpg)
-    ```
-    ```{tab-item} 12
+    
+    #### Step 12
     ![12](./figs/windows/biosVirtualization/12.jpg)
-    ```
-    ```{tab-item} 13
+    
+    #### Step 13
     ![13](./figs/windows/biosVirtualization/13.jpg)
-    ```
-    ```{tab-item} 14
+    
+    #### Step 14
     ![14](./figs/windows/biosVirtualization/14.jpg)
-    ```
-    ```{tab-item} 15
+    
+    #### Step 15
     ![15](./figs/windows/biosVirtualization/15.jpg)
-    ```
-    ```{tab-item} 16
+    
+    #### Step 16
     ![16](./figs/windows/biosVirtualization/16.png)
-    ```
-    ```{tab-item} 17
+
+    #### Step 17
     ![17](./figs/windows/biosVirtualization/17.png)
-    ```
-    ```{tab-item} 18
+
+    #### Step 18
     ![18](./figs/windows/biosVirtualization/18.png)
-    ```
-    ```{tab-item} 19
+
+    #### Step 19
     ![19](./figs/windows/biosVirtualization/19.png)
-    ```
-    ````
+
 - Check Windows version and build number.
     ````{tab-set}
     ```{tab-item} 1
@@ -122,8 +122,7 @@ To get Windows to a similar state, a virtual Linux operating system can be insta
     ```
     ```{tab-item} 4
     ![4](./figs/windows/windowsVersion/4.png)
-    ```
-    ````
+
 - If the installed version is Windows 10 and the build number is less than 19041, then follow steps given in [https://learn.microsoft.com/en-us/windows/wsl/install-manual](https://learn.microsoft.com/en-us/windows/wsl/install-manual) and then continue to the step for [Ubuntu initialization](windowsInit). Otherwise, continue with the steps given below.
     ```{note}
     Contact your TA or instructor if you find the steps given in the link too dificult to follow.
