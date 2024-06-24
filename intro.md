@@ -5,4 +5,5 @@ This is a small collection of notes that will be helpful to the students of MAE3
 Following is a brief list of topics discussed in various notes.
 
 ## Table of Contents
-- [Appendix A](./appnA/softwareInstallation.md)
+- [Chapter 1 - Summary of Basic C/C++ Programming](./chap01/summaryOfBasicCCppProgramming.md)
+- [Appendix A - Software Installation](./appnA/softwareInstallation.md)
