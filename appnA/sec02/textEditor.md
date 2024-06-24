@@ -70,7 +70,7 @@ Any text editor, like Notepad, TextEdit, Notepad++, etc., can be used to write C
 - Follow the images below to open WSL in VSCode. Note that when you switch to WSL in VSCode, you'll see `WSL:Ubuntu` written in the bottom left blue colored area.
     ### Step 1
     ![1](./figs/windows/openWslInVSCode/1.png)
-    ### Step 2 (You may need to press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> if the command doesn't show up)
+    ### Step 2 (Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)
     ![2](./figs/windows/openWslInVSCode/2.png)
     ### Step 3
     ![3](./figs/windows/openWslInVSCode/3.png)
