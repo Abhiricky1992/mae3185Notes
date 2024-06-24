@@ -4,48 +4,35 @@ This section explains how the software installed so far can be used to compile a
 ## MacOS
 - Create a folder with any name you like on the desktop.
 - Follow the images below to open it in VSCode. The name of the folder in my case is `testCode`.
-    ````{tab-set}
-    ```{tab-item} 1
+    ### Step 1
     ![1](./figs/mac/openFolderInVSCode/1.png)
-    ```
-    ```{tab-item} 2
+    ### Step 2
     ![2](./figs/mac/openFolderInVSCode/2.png)
-    ```
-    ```{tab-item} 3
+    ### Step 3
     ![3](./figs/mac/openFolderInVSCode/3.png)
-    ```
-    ```{tab-item} 4
+    ### Step 4
     ![4](./figs/mac/openFolderInVSCode/4.png)
-    ```
-    ```{tab-item} 5
+    ### Step 5
     ![5](./figs/mac/openFolderInVSCode/5.png)
-    ```
-    ```{tab-item} 6
+    ### Step 6
     ![6](./figs/mac/openFolderInVSCode/6.png)
-    ```
-    ```{tab-item} 7
+    ### Step 7
     ![7](./figs/mac/openFolderInVSCode/7.png)
-    ```
-    ````
+  
 - Follow the steps for [compiling the code](compileCode).
 
 ## Windows/Linux
 - Create a folder with any name you like on the desktop.
 - Follow the images below to open it in VSCode. The name of the folder in my case is `testCode`.
-    ````{tab-set}
-    ```{tab-item} 1
+    ### Step 1
     ![1](./figs/windows/openFolderInVSCode/1.png)
-    ```
-    ```{tab-item} 2
+    ### Step 2
     ![2](./figs/windows/openFolderInVSCode/2.png)
-    ```
-    ```{tab-item} 3
+    ### Step 3
     ![3](./figs/windows/openFolderInVSCode/3.png)
-    ```
-    ```{tab-item} 4
+    ### Step 4
     ![4](./figs/windows/openFolderInVSCode/4.png)
-    ```
-    ````
+
 - Press <kbd>⌃&#160;Control</kbd> + <kbd>⇧&#160;Shift</kbd> + <kbd>P</kbd> to open the command palette in VSCode and follow the steps shown in the images below to reopen the folder in WSL. Thus, you'll have access to the 'Arm Toolchain' and 'CMake' from VSCode.
     ````{tab-set}
     ```{tab-item} 1
