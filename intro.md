@@ -4,5 +4,5 @@ This is a small collection of notes that will be helpful to the students of MAE3
 
 Following is a brief list of topics discussed in various notes.
 
-```{tableofcontents}
-```
+## Table of Contents
+- [Appendix A](./appnA/softwareInstallation.md)
