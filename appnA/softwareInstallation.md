@@ -171,5 +171,5 @@ The software necessary to develop the C/C++ code for the microcontroller can be 
 - [Hello World](./sec04/helloWorld.md)
 
 ## Back to Introduction
-[&#8592](../intro.md)
+[Back](../intro.md)
 
