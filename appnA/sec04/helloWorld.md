@@ -19,7 +19,7 @@ This section explains how the software installed so far can be used to compile a
     ### Step 7
     ![7](./figs/mac/openFolderInVSCode/7.png)
   
-- Follow the steps for [compiling the code](compileCode).
+- Follow the steps for [compiling the code](https://github.com/Abhiricky1992/mae3185Notes/blob/master/appnA/sec04/helloWorld.md#compile-code).
 
 ## Windows/Linux
 - Create a folder with any name you like on the desktop.
@@ -48,9 +48,9 @@ This section explains how the software installed so far can be used to compile a
     ![4](./figs/windows/reopenInWSL/4.png)
     ```
     ````
-- Follow the steps for [compiling the code](compileCode).
+- Follow the steps for [compiling the code](https://github.com/Abhiricky1992/mae3185Notes/blob/master/appnA/sec04/helloWorld.md#compile-code).
 
-(compileCode)=
+
 ## Compile Code
 The steps are independent of the operating system from here on.
 - Create three files with names `helloWorld.c`, `pico_sdk_import.cmake` and `CMakeLists.txt`. Make sure to create these files with correct case, i.e. upper or lower. Following images show steps for creating a file through VSCode.
