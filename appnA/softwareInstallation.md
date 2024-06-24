@@ -168,3 +168,4 @@ The software necessary to develop the C/C++ code for the microcontroller can be 
 - [Arm Toolchain](./sec01/armToolchain.md)
 - [Text Editor](./sec02/textEditor.md#text-editor)
 - [Raspberry Pi Pico C/C++ SDK](./sec03/piPicoSDK.md)
+- [Hello World](./sec04/helloWorld.md)
