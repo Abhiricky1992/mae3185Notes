@@ -110,17 +110,18 @@ To get Windows to a similar state, a virtual Linux operating system can be insta
     ![19](./figs/windows/biosVirtualization/19.png)
 
 - Check Windows version and build number.
-    ````{tab-set}
-    ```{tab-item} 1
+    ### Checking Windows Build Number
+
+    #### Step 1
     ![1](./figs/windows/windowsVersion/1.png)
-    ```
-    ```{tab-item} 2
+
+    #### Step} 2
     ![2](./figs/windows/windowsVersion/2.png)
-    ```
-    ```{tab-item} 3
+
+    #### Step} 3
     ![3](./figs/windows/windowsVersion/3.png)
-    ```
-    ```{tab-item} 4
+
+    #### Step 4
     ![4](./figs/windows/windowsVersion/4.png)
 
 - If the installed version is Windows 10 and the build number is less than 19041, then follow steps given in [https://learn.microsoft.com/en-us/windows/wsl/install-manual](https://learn.microsoft.com/en-us/windows/wsl/install-manual) and then continue to the step for [Ubuntu initialization](windowsInit). Otherwise, continue with the steps given below.
@@ -128,8 +129,8 @@ To get Windows to a similar state, a virtual Linux operating system can be insta
     Contact your TA or instructor if you find the steps given in the link too dificult to follow.
     ```
 - Open Powershell with administrator privileges. Windows may ask for the ‘User Access Control’, please allow it.
-    ````{tab-set}
-    ```{tab-item} 1
+    
+
     ![1](./figs/windows/openPowershell/1.png)
     ```
     ```{tab-item} 2
