@@ -170,5 +170,6 @@ The software necessary to develop the C/C++ code for the microcontroller can be 
 - [Raspberry Pi Pico C/C++ SDK](./sec03/piPicoSDK.md)
 - [Hello World](./sec04/helloWorld.md)
 
-## [Back to Introduction](../intro.md)
+## Back to Introduction
+[&#8592](../intro.md)
 
