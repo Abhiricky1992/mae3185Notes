@@ -165,5 +165,5 @@ To get Windows to a similar state, a virtual Linux operating system can be insta
 ## Next Steps
 The software necessary to develop the C/C++ code for the microcontroller can be installed now. Instructions for installing this software for Raspberry Pi Pico can be found in its [Getting Started](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf) guide. Upcoming sections provide a more detailed version of the same.
 
-- [Arm Toolchain](https://github.com/Abhiricky1992/mae3185Notes/blob/master/appnA/sec01/armToolchain.md#arm-toolchain)
-- [Text Editor](https://github.com/Abhiricky1992/mae3185Notes/blob/master/appnA/sec02/textEditor.md#text-editor)
+- [Arm Toolchain](./sec01/armToolchain.md)
+- [Text Editor](./sec02/textEditor.md#text-editor)
