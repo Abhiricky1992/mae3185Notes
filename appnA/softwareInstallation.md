@@ -130,19 +130,16 @@ To get Windows to a similar state, a virtual Linux operating system can be insta
     ```
 - Open Powershell with administrator privileges. Windows may ask for the ‘User Access Control’, please allow it.
     
-
+  #### Step 1
     ![1](./figs/windows/openPowershell/1.png)
-    ```
-    ```{tab-item} 2
+   
+  #### Step 2
     ![2](./figs/windows/openPowershell/2.png)
-    ```
-    ```{tab-item} 3
+  #### Step 3
     ![3](./figs/windows/openPowershell/3.png)
-    ```
-    ```{tab-item} 4
+  #### Step  4
     ![4](./figs/windows/openPowershell/4.png)
-    ```
-    ````
+
 - Type `wsl --install`. This will enable and install some software components in Windows. It will also install a Linux distribution called Ubuntu in Windows. Once the installation is finished, you'll receive a message as shown below.
     ````{tab-set}
     ```{tab-item} 1
