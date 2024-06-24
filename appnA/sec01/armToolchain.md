@@ -29,17 +29,13 @@ A toolchain is a set of programming tools, like a compiler, linker, debugger, et
     $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
     ```
 - Once 'Homebrew' is installed, it may ask you to perform some extra steps. Generally, these steps correspond to adding 'Homebrew' to the `PATH` environment. Following images show the steps I was asked to perform.
-    ````{tab-set}
-    ```{tab-item} 1
+    ### Step 1
     ![1](./figs/mac/brewExportPath/1.png)
-    ```
-    ```{tab-item} 2
+    ### Step 2
     ![2](./figs/mac/brewExportPath/2.png)
-    ```
-    ```{tab-item} 3
+    ### Step 3
     ![3](./figs/mac/brewExportPath/3.png)
-    ```
-    ````
+
 - Close the terminal and reopen it.
 - Enter following commands in the terminal app to install the 'Embedded Toolchain for Arm' and 'CMake'.
     ```bash
