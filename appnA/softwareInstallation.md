@@ -3,8 +3,9 @@ Before we go about writing the code for the microcontroller programming, it is i
 
 ## MacOS
 MacOS and Linux are very similar in operation for the purpose of the microcontroller programming in this book. The small changes necessary to make MacOS behave as expected are provided below.
-- Open terminal app. Note that `zsh` is being used as the default shell. If `bash` is being used then continue to the [next steps] (appA:nextSteps) 
-  ### Steps
+- Open terminal app. Note that `zsh` is being used as the default shell. If `bash` is being used then continue to the Bash Steps
+
+  ### Zsh Steps
     #### Step 1
     ![1](figs/mac/openZsh/1.png?raw=true)
    
@@ -22,20 +23,15 @@ MacOS and Linux are very similar in operation for the purpose of the microcontro
     % chsh -s /bin/bash
     ```
 - Exit the terminal app and reopen it. Note that it is now using `bash` as the default shell. Also, the prompt, `%` for `zsh`, is now changed to `$`.
-    ````{tab-set}
-    ```{tab-item} 1
-    ![1](./figs/mac/openBash/1.png)
-    ```
-    ```{tab-item} 2
+  ### Bash Steps
+  #### Step 1
+    ![1](figs/mac/openBash/1.png?raw=true)    
+   #### Step 2
     ![2](./figs/mac/openBash/2.png)
-    ```
-    ```{tab-item} 3
+  #### Step 3
     ![3](./figs/mac/openBash/3.png)
-    ```
-    ```{tab-item} 4
+  #### Step 4
     ![4](./figs/mac/openBash/4.png)
-    ```
-    ````
 
 ## Windows
 To get Windows to a similar state, a virtual Linux operating system can be installed in it. Windows provides [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) for this purpose. A brief installation guide for WSL is provided at [https://learn.microsoft.com/en-us/windows/wsl/install](https://learn.microsoft.com/en-us/windows/wsl/install). Following are the step-wise instructions with images to install WSL.
