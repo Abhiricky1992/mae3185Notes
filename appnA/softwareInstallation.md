@@ -36,20 +36,15 @@ MacOS and Linux are very similar in operation for the purpose of the microcontro
 ## Windows
 To get Windows to a similar state, a virtual Linux operating system can be installed in it. Windows provides [WSL](https://learn.microsoft.com/en-us/windows/wsl/about) for this purpose. A brief installation guide for WSL is provided at [https://learn.microsoft.com/en-us/windows/wsl/install](https://learn.microsoft.com/en-us/windows/wsl/install). Following are the step-wise instructions with images to install WSL.
 - Check the status of hardware virtualization.
-    ````{tab-set}
-    ```{tab-item} 1
+  ### Hardware Virtualization 
+  #### Step 1
     ![1](./figs/windows/virtualizationState/1.png)
-    ```
-    ```{tab-item} 2
+  #### Step 2
     ![2](./figs/windows/virtualizationState/2.png)
-    ```
-    ```{tab-item} 3
+  #### Step 3
     ![3](./figs/windows/virtualizationState/3.png)
-    ```
-    ```{tab-item} 4
+  #### Step 4
     ![4](./figs/windows/virtualizationState/4.png)
-    ```
-    ````
 
 - If the hardware virtualization is disabled then follow images given below to boot the computer in BIOS for activating the hardware virtualization. The BIOS menu will look different based on the manufacturer. Windows also has [detailed instructions](https://support.microsoft.com/en-us/windows/enable-virtualization-on-windows-11-pcs-c5578302-6e43-4b4b-a449-8ced115f58e1) on activating hardware virtualization for most manufacturers. In the BIOS settings, find the configuration items related to the CPU. These can be under the headings Processor, Chipset, or Northbridge. Enable virtualization; the setting may be called VT-x, AMD-V, SVM, or Vanderpool. Enable Intel VT-d or AMD IOMMU if the options are available. Save your changes and reboot.
     ```{note}
