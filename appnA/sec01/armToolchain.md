@@ -3,32 +3,23 @@ A toolchain is a set of programming tools, like a compiler, linker, debugger, et
 
 ## MacOS
 - Open the terminal.
-    ````{tab-set}
-    ```{tab-item} 1
+### Step 1
     ![1](./figs/mac/openTerminal/1.png)
-    ```
-    ```{tab-item} 2
+### Step 2
     ![2](./figs/mac/openTerminal/2.png)
-    ```
-    ```{tab-item} 3
+### Step 3
     ![3](./figs/mac/openTerminal/3.png)
-    ```
-    ```{tab-item} 4
+### Step 4
     ![4](./figs/mac/openTerminal/4.png)
-    ```
-    ````
+
 - Check if your MacBook has Apple chip or Intel chip.
-    ````{tab-set}
-    ```{tab-item} 1
+  ### Step 1
     ![1](./figs/mac/checkProcessor/1.png)
-    ```
-    ```{tab-item} 2
+  ### Step 2
     ![2](./figs/mac/checkProcessor/2.png)
-    ```
-    ```{tab-item} 3
+  ### Step 3
     ![3](./figs/mac/checkProcessor/3.png)
-    ```
-    ````
+
 - If your MacBook has Apple chip then enter following commands in the terminal, continue to the next step otherwise.
     ```bash
     $ /usr/sbin/softwareupdate --install-rosetta --agree-to-license
