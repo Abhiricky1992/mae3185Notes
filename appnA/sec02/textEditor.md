@@ -88,4 +88,4 @@ Any text editor, like Notepad, TextEdit, Notepad++, etc., can be used to write C
     ![5](./figs/windows/installCppExtension/5.png)
  
 ## Next Step
-[Raspberry Pi Pico C/C++ SDK](https://github.com/Abhiricky1992/mae3185Notes/blob/master/appnA/sec03/piPicoSDK.md)
+[Raspberry Pi Pico C/C++ SDK](../sec03/piPicoSDK.md)
