@@ -1,5 +1,5 @@
 # Hello World!
-This section explains how the software installed so far can be used to compile a code for the microcontroller.
+This section explains how the software installed so far can be used to compile a code for the microcontroller. Instructions are given for [MacOS](helloWorld.md#macos) and [Windows/Linux](helloWorld.md#windowslinux).
 
 ## MacOS
 - Create a folder with any name you like on the desktop.
