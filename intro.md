@@ -6,4 +6,5 @@ Following is a brief list of topics discussed in various notes.
 
 ## Table of Contents
 - [Chapter 1 - Summary of Basic C/C++ Programming](./chap01/summaryOfBasicCCppProgramming.md)
+- [Chapter 2 - Preliminaries](./chap02/preliminaries.md)
 - [Appendix A - Software Installation](./appnA/softwareInstallation.md)
