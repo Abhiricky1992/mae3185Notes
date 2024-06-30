@@ -67,3 +67,7 @@ int main()
 
 ## Initializing Local and Global Variables
 When a local variable is defined, it is not initialized by the system, you must initialize it yourself. Global variables are initialized automatically to zero or `null` by the system. It is a good programming practice to initialize variables properly, otherwise your program may produce unexpected results, because uninitialized variables will take some garbage value already available at their memory location.
+
+
+# Back
+[Back to Chapter 1](../summaryOfBasicCCppProgramming.md)
