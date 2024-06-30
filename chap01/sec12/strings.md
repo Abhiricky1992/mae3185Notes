@@ -67,3 +67,6 @@ strcpy(str3, str1): Hello
 strcat(str1, str2): HelloWorld
 strlen(str1): 10
 ```
+
+# Back
+[Back to Chapter 1](../summaryOfBasicCCppProgramming.md)
