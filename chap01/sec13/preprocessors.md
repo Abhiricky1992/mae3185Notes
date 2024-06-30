@@ -120,3 +120,6 @@ Using this statement will undefine the existing macro `LIMIT`. After this statem
 
 #### `#pragma` Directive
 This directive is a special purpose directive and is used to turn on or off some features. These types of directives are compiler-specific, i.e., they vary from compiler to compiler, and so, are not discussed here.
+
+# Back
+[Back to Chapter 1](../summaryOfBasicCCppProgramming.md)
