@@ -104,3 +104,7 @@ You may also realize that C language would also not keep track of the valid inde
 double arrayMean(unsigned int arr[], const unsigned int size);	// Function declaration with array size as a parameter
 ```
 Another way of passing arrays to functions is by using Pointers, which will not be discussed here.
+
+
+# Back
+[Back to Chapter 1](../summaryOfBasicCCppProgramming.md)
