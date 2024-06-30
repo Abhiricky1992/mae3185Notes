@@ -6,3 +6,4 @@ This book assumes that students who want to learn mechatronics do know how to wr
 - [Section 2 - Basic Syntax](sec02/basicSyntax.md)
 - [Section 3 - Data Types](sec03/dataTypes.md)
 - [Section 4 - Variables](sec04/variables.md)
+- [Section 5 - Constants and Literals](sec05/constantsAndLiterals.md)
