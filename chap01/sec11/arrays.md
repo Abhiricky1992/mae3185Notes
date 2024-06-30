@@ -7,14 +7,10 @@ Indexing in C programming starts from 0, i.e. the first element of an array is l
 ```
 
 Arrays are stored in a contiguous memory, i.e. the memory allocated for an array is always a single continuous chunk. The lowest address corresponds to the first element and the highest address to the last element.
-```{figure} ./figs/arrayInMemory.svg
----
-class: p-2
-alt : arrayInMemory
-scale : 300%
----
-Arrangement of an array in memory
-```
+<p align="center">
+  <img width="100%" src="./figs/arrayInMemory.svg">
+</p>
+
 
 ## Declaring Arrays
 To declare an array in C, you will have to specify the type of the elements and the number of elements needed in an array as follows
